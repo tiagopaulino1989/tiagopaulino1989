@@ -7,9 +7,9 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação e cie
 - **Linguagens de Programação:** Python, Typescript
 - **Banco de Dados:** SQL
 - **Visualização de Dados:** Power BI, MatplotLib, Dash, Streamlit
-- **Machine Learning:** Scikit-Learn
+- **Machine Learning e Otimização:** Scikit-Learn, Pulp, Gurobi
 - **Contêinerização:** Docker
-- **Integrações:** FastAPI, Fastify
+- **Integrações:** Flask, FastAPI, Fastify
 
 ## 🚀 Projetos Destacados
 
