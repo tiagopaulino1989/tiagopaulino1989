@@ -17,6 +17,8 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação e cie
   - Análise e predição de dados de saúde para detecção de potencial síndrome metabólica utilizando um modelo de Regressão Logística com um Robust Scaler.  
 - [Otimização de Picking na Armazenagem](https://github.com/tiagopaulino1989/SlotingPicking):
   - Implementação de um modelo de otimização para um problema de estoque por demanda de fluxo de produtos. Propor número de posições pallete por produto para picking, e sua localização no layout definido.
+- [Previsão de Cotação do Dólar](https://github.com/tiagopaulino1989/ForecastUSD):
+  - Criação de um webapp com Streamlit que faz um crawling em tempo real de dados da api do Yahoo Finance e aplica modelos ARIMA para previsão do valor futuro do dólar com base na sua flutuação ao longo de uma série temporal.
 
 ## 📚 Educação
 
