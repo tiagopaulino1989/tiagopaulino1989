@@ -4,8 +4,8 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação e cie
 
 ## 🔧 Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** Python, Typescript
-- **Banco de Dados:** SQL
+- **Linguagens:** Python, SQL, Typescript
+- **Banco de Dados:** SQL Server, PostgreSQL, MySQL, MariaDB, Redis, Oracle
 - **Visualização de Dados:** Power BI, MatplotLib, Dash, Streamlit
 - **Machine Learning e Otimização:** Scikit-Learn, Pulp, Gurobi
 - **Contêinerização:** Docker
