@@ -23,7 +23,7 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação e cie
 
 ## 📚 Educação
 
-- **Docente em Matemática:** [Faculdade Raimundo Marinho]
+- **Licenciatura em Matemática:** [Faculdade Raimundo Marinho]
 - **Bacharel em Sistemas de Informação:** [Universidade Federal de Alagoas]
 - **Mestrado em Ciência da Computação:** [Universidade Federal de Alagoas]
 
