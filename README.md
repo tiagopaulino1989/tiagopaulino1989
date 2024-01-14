@@ -37,6 +37,7 @@ Estou sempre buscando expandir meu conhecimento em áreas como Nuvem, Arquitetur
   - AWS (EC2, RDS, S3, SageMaker)
   - Desenvolvimento de APIs para integração de sistemas e consumo de modelos de Machine Learning
   - Sistemas de Mensageria e Stream de dados (RabbitMQ e Kafka)
+  - Modern Data Stack (Airbyte, DBT)
 
 ## 🤝 Colaborações
 
