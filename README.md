@@ -15,7 +15,7 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação e cie
 ## 🚀 Projetos Destacados
 
 - [Regressão Logística - Síndrome Metabólica](https://github.com/tiagopaulino1989/MetabolicSindrome):
-  - Análise e predição de dados de saúde para detecção de potencial síndrome metabólica utilizando um modelo de Regressão Logística com um Robust Scaler.  
+  - Realizada uma EDA de dados de saúde referentes a pacientes com Síndrome Metabólica. Detecção de potencial síndrome metabólica utilizando um modelo de Regressão Logística com aplicação de um Robust Scaler.  
 - [Otimização de Picking na Armazenagem](https://github.com/tiagopaulino1989/SlotingPicking):
   - Implementação de um modelo de otimização para um problema de estoque por demanda de fluxo de produtos. Propor número de posições pallete por produto para picking, e sua localização no layout definido.
 - [Previsão de Cotação do Dólar](https://github.com/tiagopaulino1989/ForecastUSD):
