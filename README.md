@@ -45,7 +45,7 @@ Se você estiver interessado em colaborar em projetos emocionantes relacionados 
 
 ## 📈 Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopaulino1989)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopaulino1989&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiagopaulino1989&show_icons=true&theme=dark)
 
 Espero que você encontre algo interessante aqui! Fique à vontade para explorar meus repositórios e entrar em contato. 😊
