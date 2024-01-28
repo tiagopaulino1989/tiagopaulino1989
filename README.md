@@ -23,10 +23,11 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação, mest
 - [Previsão de Cotação do Dólar](https://github.com/tiagopaulino1989/ForecastUSD):
   - Criação de um webapp com Streamlit que faz um crawling em tempo real de dados da api do Yahoo Finance e aplica modelos ARIMA para previsão do valor futuro do dólar com base na sua flutuação ao longo de uma série temporal.
 
-## 📚 Educação
+## 📚 Formação
 
 - **Licenciatura em Matemática:** [Faculdade Raimundo Marinho]
 - **Bacharel em Sistemas de Informação:** [Universidade Federal de Alagoas]
+- **MBA em Engenharia de Sistemas:** [Escola Superior Aberta do Brasil]
 - **Mestrado em Ciência da Computação:** [Universidade Federal de Alagoas]
 
 ## 📫 Como Entrar em Contato
