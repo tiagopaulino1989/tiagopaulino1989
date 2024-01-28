@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação e cientista de dados com experiência em diversas tecnologias e ferramentas. Estou sempre explorando e aprendendo novas maneiras de transformar dados em insights valiosos para seu negócio.
+Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação, mestre Computação Visual e Ciência de Dados pela Universidade Federal de Alagoas com experiência em diversas tecnologias e ferramentas. Estou sempre explorando e aprendendo novas maneiras de transformar dados em insights valiosos para seu negócio.
 
 ## 🔧 Tecnologias e Ferramentas
 
