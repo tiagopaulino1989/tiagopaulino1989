@@ -33,6 +33,8 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação, mest
 ## 📫 Como Entrar em Contato
 
 - LinkedIn: [tiago-paulino-ds](https://www.linkedin.com/in/tiago-paulino-ds/)
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tiago-paulino-ds" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-paulino-ds?trk=profile-badge">Tiago Paulino</a></div>
+              
 
 ## 🌱 Atualmente Aprendendo
 
