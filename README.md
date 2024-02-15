@@ -12,8 +12,6 @@ Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação, mest
 - **ETL:** PySpark, Pentaho, Pandas
 - **Integrações:** Flask, FastAPI, Fastify
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopaulino1989&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🚀 Projetos Destacados
 
 - [Regressão Logística - Síndrome Metabólica](https://github.com/tiagopaulino1989/MetabolicSindrome):
