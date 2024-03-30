@@ -1,53 +1,51 @@
-# Bem-vindo ao meu perfil! 👋
+# Welcome to my profile! 👋
 
-Eu sou Tiago Paulino, um apaixonado matemático, cientista da computação, mestre Computação Visual e Ciência de Dados pela Universidade Federal de Alagoas com experiência em diversas tecnologias e ferramentas. Estou sempre explorando e aprendendo novas maneiras de transformar dados em insights valiosos para seu negócio.
+I'm Tiago Paulino, a passionate mathematician, computer scientist, Master in Visual Computing and Data Science from the Federal University of Alagoas with experience in various technologies and tools. I'm always exploring and learning new ways to turn data into valuable insights for your business.
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies and Tools
 
-- **Linguagens:** Python, SQL, Typescript
-- **Banco de Dados:** SQL Server, PostgreSQL, MySQL, MariaDB, Redis, Oracle
-- **Visualização de Dados:** Power BI, MatplotLib/Seaborn/Plotly, Dash, Streamlit
-- **Machine Learning e Otimização:** Scikit-Learn, Pulp, Gurobi
-- **Contêinerização:** Docker
+- **Languages:** Python, SQL, Typescript
+- **Databases:** SQL Server, PostgreSQL, MySQL, MariaDB, Redis, Oracle
+- **Data Visualization:** Power BI, MatplotLib/Seaborn/Plotly, Dash, Streamlit
+- **Machine Learning and Optimization:** Scikit-Learn, Pulp, Gurobi
+- **Containerization:** Docker
 - **ETL:** PySpark, Pentaho, Pandas
-- **Integrações:** Flask, FastAPI, Fastify
+- **Integrations:** Flask, FastAPI, Fastify
 
-## 🚀 Projetos Destacados
+## 🚀 Featured Projects
 
-- [Regressão Logística - Síndrome Metabólica](https://github.com/tiagopaulino1989/MetabolicSindrome):
-  - Realizada uma EDA de dados de saúde referentes a pacientes com Síndrome Metabólica. Detecção de potencial síndrome metabólica utilizando um modelo de Regressão Logística com aplicação de um Robust Scaler.  
-- [Otimização de Picking na Armazenagem](https://github.com/tiagopaulino1989/SlotingPicking):
-  - Implementação de um modelo de otimização para um problema de estoque por demanda de fluxo de produtos. Propor número de posições pallete por produto para picking, e sua localização no layout definido.
-- [Previsão de Cotação do Dólar](https://github.com/tiagopaulino1989/ForecastUSD):
-  - Criação de um webapp com Streamlit que faz um crawling em tempo real de dados da api do Yahoo Finance e aplica modelos ARIMA para previsão do valor futuro do dólar com base na sua flutuação ao longo de uma série temporal.
+- [Logistic Regression - Metabolic Syndrome](https://github.com/tiagopaulino1989/MetabolicSindrome):
+  - Conducted an EDA on health data related to patients with Metabolic Syndrome. Detection of potential metabolic syndrome using a Logistic Regression model with the application of a Robust Scaler.
+- [Picking Optimization in Warehousing](https://github.com/tiagopaulino1989/SlotingPicking):
+  - Implementation of an optimization model for a stock problem by product flow demand. Propose the number of pallet positions per product for picking and its location in the defined layout.
+- [Dollar Exchange Rate Prediction](https://github.com/tiagopaulino1989/ForecastUSD):
+  - Creation of a web app with Streamlit that crawls real-time data from the Yahoo Finance API and applies ARIMA models to predict the future value of the dollar based on its fluctuation over a time series.
 
-## 📚 Formação
+## 📚 Education
 
-- **Licenciatura em Matemática:** [Faculdade Raimundo Marinho]
-- **Bacharel em Sistemas de Informação:** [Universidade Federal de Alagoas]
-- **MBA em Engenharia de Sistemas:** [Escola Superior Aberta do Brasil]
-- **Mestrado em Ciência da Computação:** [Universidade Federal de Alagoas]
+- **Bachelor's Degree in Mathematics:** [Raimundo Marinho College]
+- **Bachelor's Degree in Information Systems:** [Federal University of Alagoas]
+- **MBA in Systems Engineering:** [Open School of Brazil]
+- **Master's Degree in Computer Science:** [Federal University of Alagoas]
 
-## 📫 Como Entrar em Contato
+## 📫 How to Reach Me
 
 - LinkedIn: [tiago-paulino-ds](https://www.linkedin.com/in/tiago-paulino-ds/)
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tiago-paulino-ds" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-paulino-ds?trk=profile-badge">Tiago Paulino</a></div>
-              
 
-## 🌱 Atualmente Aprendendo
+## 🌱 Currently Learning
 
-Estou sempre buscando expandir meu conhecimento em áreas como Nuvem, Arquitetura de Software, Analytics, etc. Atualmente estou me aprofundando em:
+I'm always seeking to expand my knowledge in areas like Cloud, Software Architecture, Analytics, etc. Currently, I'm diving deeper into:
   - AWS (EC2, RDS, S3, SageMaker)
-  - Desenvolvimento de APIs para integração de sistemas e consumo de modelos de Machine Learning
-  - Sistemas de Mensageria e Stream de dados (RabbitMQ e Kafka)
+  - Developing APIs for system integration and consumption of Machine Learning models
+  - Messaging Systems and Data Streaming (RabbitMQ and Kafka)
   - Modern Data Stack (Airbyte, DBT)
 
-## 🤝 Colaborações
+## 🤝 Collaborations
 
-Se você estiver interessado em colaborar em projetos emocionantes relacionados a engenharia de software e inteligência artificial, não hesite em entrar em contato!
+If you're interested in collaborating on exciting projects related to software engineering and artificial intelligence, feel free to reach out!
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Statistics
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiagopaulino1989&show_icons=true&theme=dark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=tiagopaulino1989&show_icons=true&theme=dark)
 
-Espero que você encontre algo interessante aqui! Fique à vontade para explorar meus repositórios e entrar em contato. 😊
+Hope you find something interesting here! Feel free to explore my repositories and get in touch. 😊
