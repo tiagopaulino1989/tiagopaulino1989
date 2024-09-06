@@ -9,7 +9,7 @@ I'm Tiago Paulino, a passionate mathematician, computer scientist, Master in Vis
 - **Data Visualization:** Power BI, MatplotLib/Seaborn/Plotly, Dash, Streamlit
 - **Machine Learning and Optimization:** Scikit-Learn, Pulp, Gurobi
 - **Containerization:** Docker
-- **ETL:** PySpark, Pentaho, Pandas
+- **ETL:** PySpark, Pentaho, Pandas, Apache Hop, Azure Data Factory
 - **Integrations:** Flask, FastAPI, Fastify
 
 ## 🚀 Featured Projects
@@ -35,9 +35,6 @@ I'm Tiago Paulino, a passionate mathematician, computer scientist, Master in Vis
 ## 🌱 Currently Learning
 
 I'm always seeking to expand my knowledge in areas like Cloud, Software Architecture, Analytics, etc. Currently, I'm diving deeper into:
-  - AWS (EC2, RDS, S3, SageMaker)
-  - Developing APIs for system integration and consumption of Machine Learning models
-  - Messaging Systems and Data Streaming (RabbitMQ and Kafka)
   - Modern Data Stack (Airbyte, DBT)
 
 ## 🤝 Collaborations
